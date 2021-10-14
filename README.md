@@ -1,7 +1,8 @@
 # Olá!!! Eu sou Adonai Farias
 
 - 👀 Estou Interessado em programação Python, Desenvolvimento WEB e MOBILE e Ciência de Dados
-- 🌱 Estudando Python, HTML5+CSS3+JS, Git e GitHub
+- 🌱 Desenvolvedor Python, Familiaridade com Git e GitHub, Conhecimento em MySQL
+- 🌱 Estudando HTML5+CSS3+JS, Redes de Computadores
 - 📫 Contate-me no email: oficialadonai@hotmail.com
 
  <div>
